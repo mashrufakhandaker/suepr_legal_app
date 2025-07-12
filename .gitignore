@@ -1,0 +1,15 @@
+# Environment variables
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE and editor directories
+.vscode/
+.idea/
+
+# Uploads - if you don't want to commit user-uploaded files
+uploads/temp/
